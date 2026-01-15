@@ -1,0 +1,16 @@
+city_abbr,season,city,pct_wfh,job_diversity,total_jobs
+atl,fa23,Atlanta--Athens-ClarkeCounty--SandySprings_GA-AL,0.2686753594,3.887198635,3734965
+bos,fa23,Boston-Worcester-Providence_MA-RI-NH,0.2388359407,3.770652935,4687984
+chi,fa23,Chicago-Naperville_IL-IN-WI,0.230475773,3.830714576,5308320
+clv,fa23,Cleveland-Akron-Canton_OH,0.1715000594,3.756817362,1864517
+dal,fa23,Dallas-FortWorth_TX-OK,0.2380267618,3.897686128,4417485
+dtr,fa23,Detroit-Warren-AnnArbor_MI,0.2055502832,3.70429486,2710067
+hou,fa23,Houston-Pasadena_TX,0.2040101166,3.911970941,3788343
+la,fa23,LosAngeles-LongBeach_CA,0.2223092257,3.918119436,9490604
+ny,fa23,NewYork-Newark_NY-NJ-CT-PA,0.2166714071,3.831667153,11669845
+orl,fa23,Orlando-Lakeland-Deltona_FL,0.2371231476,3.889530063,2132600
+phi,fa23,Philadelphia-Reading-Camden_PA-NJ-DE-MD,0.2264502208,3.813028973,3831470
+pnx,fa23,Phoenix-Mesa_AZ,0.2998237678,3.895102277,2498611
+sac,fa23,Sacramento-Roseville_CA,0.2473695106,3.905234511,1325852
+sf,fa23,SanJose-SanFrancisco-Oakland_CA,0.2649409283,3.863742339,4920356
+stl,fa23,StLouis-StCharles-Farmington_MO-IL,0.2030157723,3.840090454,1242927

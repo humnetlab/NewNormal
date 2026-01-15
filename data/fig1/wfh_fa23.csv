@@ -1,0 +1,22 @@
+naics_category,naics_name,avg,avg_pct
+pct_naics_54_remote,"Professional, Scientific, and Technical Services",0.4170315273,0.08521279991
+pct_naics_52_remote,Finance and Insurance,0.3923428955,0.05179323927
+pct_naics_51_remote,Information,0.373060881,0.02053229111
+pct_naics_31-33_remote,Manufacturing,0.3041155919,0.0972719158
+pct_naics_55_remote,Management of Companies and Enterprises,0.2446746094,0.001697119899
+pct_naics_92_remote,Public Administration,0.2287352206,0.03932448395
+pct_naics_53_remote,Real Estate and Rental and Leasing,0.2125942333,0.02019720186
+pct_naics_44-45_remote,Retail Trade,0.2077747227,0.1106037031
+pct_naics_22_remote,Utilities,0.1990283269,0.007675648109
+pct_naics_42_remote,Wholesale Trade,0.1664618021,0.02489410083
+pct_naics_21_remote,"Mining, Quarrying, and Oil and Gas Extraction",0.1654693185,0.002901408914
+pct_naics_61_remote,Educational Services,0.1618251509,0.08936231797
+pct_naics_56_remote,Administrative and Support and Waste Management and Remediation Services,0.150847683,0.04550203749
+pct_naics_71_remote,"Arts, Entertainment, and Recreation",0.1467417018,0.02320290938
+pct_naics_48-49_remote,Transportation and Warehousing,0.1371476599,0.052187887
+pct_naics_62_remote,Health Care and Social Assistance,0.1344812946,0.135518259
+pct_naics_11_remote,"Agriculture, Forestry, Fishing and Hunting",0.1324950377,0.006197865745
+pct_naics_81_remote,Other Services (except Public Administration),0.1013066247,0.04728153125
+pct_naics_23_remote,Construction,0.08858941233,0.06697402201
+pct_naics_72_remote,Accommodation and Food Services,0.04251916128,0.07166925741
+
